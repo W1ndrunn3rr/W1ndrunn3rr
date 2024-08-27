@@ -3,7 +3,7 @@
 Hello! I'm a robotics student who is currently diving into the world of web development. My journey started with robotics and embedded systems, but I'm now expanding my skills into front-end development with JavaScript, TypeScript, and React. This GitHub profile is a place where I share my projects, experiments, and learning experiences as I grow my knowledge in both robotics and web development.
 
 ## My Skills
-### Robotics and Embedded Systems 
+### Robotics and Machnine Learning 
 - Microcontrollers: Experience with STM, Arduino
 - Programming Languages: Proficient in C, C++, and Python.
 - Frameworks : Scikit-Learn, Robot Operating System
