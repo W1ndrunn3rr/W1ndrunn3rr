@@ -10,9 +10,10 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
 - Frameworks : Robot Operating System
 
 ### Machnine Learning
-- Tensorflow ad PyTorch - for deep learning
-- spaCy - for natural language processing
-- openCV - for computer vision projects
+- Scikit-learn : for supervised learning algorithms
+- Tensorflow, PyTorch and Keras : for deep learning
+- spaCy : for natural language processing
+- openCV : for computer vision projects
 
 ## Learning Goals :
 I am constantly learning and looking to expand my knowledge in the following areas:
