@@ -6,6 +6,7 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
 ### Robotics
 - Microcontrollers: Experience with STM32, Arduino
 - Programming Languages: Proficient in C, C++, and Python.
+- OS : Linux, Windows
 - Frameworks : Robot Operating System
 
 ### Machnine Learning
@@ -18,7 +19,6 @@ I am constantly learning and looking to expand my knowledge in the following are
 - Deep learning techniques with neural networks
 - Reinforcment learning
 - ML Ops
-- 
 
 ## How to Reach Me : 
 Feel free to connect with me:
