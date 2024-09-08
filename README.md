@@ -1,24 +1,24 @@
 # Welcome to My GitHub Profile!
 ## About Me
-Hello! I'm a robotics student who is currently diving into the world of web development. My journey started with robotics and embedded systems, but I'm now expanding my skills into front-end development with JavaScript, TypeScript, and React. This GitHub profile is a place where I share my projects, experiments, and learning experiences as I grow my knowledge in both robotics and web development.
+Hello! I'm a robotics student who is currently diving into the world of deep learning. My journey started with robotics and supervised learning , but I'm now expanding my skills into deep learning with Tensorflow and Pytorch. This GitHub profile is a place where I share my projects, experiments, and learning experiences as I grow my knowledge in both robotics and ML / AI.
 
 ## My Skills
-### Robotics and Machnine Learning 
-- Microcontrollers: Experience with STM, Arduino
+### Robotics
+- Microcontrollers: Experience with STM32, Arduino
 - Programming Languages: Proficient in C, C++, and Python.
-- Frameworks : Scikit-Learn, Robot Operating System
+- Frameworks : Robot Operating System
 
-### Web Development
-- JavaScript : Building interactive and dynamic web applications
-- TypeScirpt : Writing type-safe JavaScript code for better maintainability.
-- React : Developing modern web applications with a focus on component-based architecture.
+### Machnine Learning
+- Tensorflow ad PyTorch - for deep learning
+- spaCy - for natural language processing
+- openCV - for computer vision projects
 
 ## Learning Goals :
 I am constantly learning and looking to expand my knowledge in the following areas:
-- Advanced JavaScript and TypeScript concepts
-- Deepening my understanding of React and its ecosystem (Redux, React Router, etc..)
-- Exploring backend development with Node.js and Express
-- Exploring more frontend technology
+- Deep learning techniques with neural networks
+- Reinforcment learning
+- ML Ops
+- 
 
 ## How to Reach Me : 
 Feel free to connect with me:
