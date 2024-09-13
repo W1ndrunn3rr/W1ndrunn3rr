@@ -9,7 +9,7 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
 - OS : Linux, Windows
 - Frameworks : Robot Operating System
 
-### Machnine Learning
+### Machine Learning
 - Scikit-learn : for supervised learning algorithms
 - Tensorflow, PyTorch and Keras : for deep learning
 - spaCy : for natural language processing
