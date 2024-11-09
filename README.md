@@ -11,7 +11,7 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
 
 ### Machine Learning
 - Scikit-learn : for supervised learning algorithms
-- Tensorflow, PyTorch and Keras : for deep learning
+-  PyTorch and Keras : for deep learning
 - spaCy : for natural language processing
 - openCV : for computer vision projects
 
