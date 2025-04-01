@@ -15,7 +15,7 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
 ### Machine Learning 
   ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Tensorflow](https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=Tensorflow&logoColor=red)
+  ![Tensorflow](https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=Tensorflow&logoColor=white)
   ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
