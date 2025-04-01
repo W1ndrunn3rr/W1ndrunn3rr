@@ -22,6 +22,7 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
   ![LangChain](https://img.shields.io/badge/LangChain-FF6F61?style=for-the-badge&logo=langchain&logoColor=white)
   ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=langgraph&logoColor=white)
   ![Pinecone](https://img.shields.io/badge/Pinecone-4A90E2?style=for-the-badge&logo=pinecone&logoColor=white)
+  ![Jax](https://img.shields.io/badge/Jax-4A90E2?style=for-the-badge&logo=pinecone&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Web Development
