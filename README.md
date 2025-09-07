@@ -6,6 +6,7 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 ## My Skills
 
 ### Robotics
@@ -34,6 +35,8 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
   ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
   ![Pinecone](https://img.shields.io/badge/Pinecone-4A90E2?style=for-the-badge&logo=pinecone&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+  
 ## Learning Goals :
 I am constantly learning and looking to expand my knowledge in the following areas:
 - Images processing with OpenCV and Convolutional Neural Networks
