@@ -39,11 +39,10 @@ Hello! I'm a robotics student who is currently diving into the world of deep lea
   
 ## Learning Goals :
 I am constantly learning and looking to expand my knowledge in the following areas:
-- Images processing with OpenCV and Convolutional Neural Networks
 - Reinforcment learning
 - ML Ops
 - AI Engineering
-- Web Development for deploying models 
+- Blockchain
 
 ## How to Reach Me : 
 Feel free to connect with me:
