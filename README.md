@@ -1,5 +1,3 @@
-# Aspiring AI/ML Engineer
-
 ## About Me
 
 I am an Automatics and Robotics graduate currently pursuing a Master's degree in Trustworthy AI Systems. My background spans embedded systems, control theory, and supervised learning, and I am now focused on deepening my expertise in AI/ML Engineering and AI/ML Operations. This profile documents my projects, experiments, and progress as I build production-grade AI and machine learning systems.
